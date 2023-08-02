@@ -1,0 +1,111 @@
+Running once for JIT compilation...
+Done!
+
+Pd74SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      2115 atoms using 764 cpu(s)...
+      10 box lengths using 4 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      1.49       21619       80197
+      0.59           0       10016
+      0.94        2199       29781
+      1.74       44098      111313
+      0.69         227       14365
+      1.09        5120       43433
+      0.80         403       21168
+      2.36      149736      207628
+      1.27       11993       57249
+      2.02       83095      155177
+  Exact surface D_Box: 2.2459 [2.1285, 2.3633],  R2: 0.9979
+  Run 0: 90.7889 s
+
+Pd74SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      2115 atoms using 764 cpu(s)...
+      10 box lengths using 4 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59           0       10016
+      0.94        2199       29781
+      1.49       21619       80197
+      0.69         227       14365
+      1.09        5120       43433
+      1.74       44098      111313
+      0.80         403       21168
+      2.36      149736      207628
+      2.02       83095      155177
+      1.27       11993       57249
+  Exact surface D_Box: 2.2459 [2.1285, 2.3633],  R2: 0.9979
+  Run 1: 94.0316 s
+
+Pd74SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      2115 atoms using 764 cpu(s)...
+      10 box lengths using 4 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59           0       10016
+      1.49       21619       80197
+      0.94        2199       29781
+      0.69         227       14365
+      1.09        5120       43433
+      1.74       44098      111313
+      2.36      149736      207628
+      0.80         403       21168
+      1.27       11993       57249
+      2.02       83095      155177
+  Exact surface D_Box: 2.2459 [2.1285, 2.3633],  R2: 0.9979
+  Run 2: 94.7740 s
+
+Pd74SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      2115 atoms using 764 cpu(s)...
+      10 box lengths using 4 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59           0       10016
+      0.94        2199       29781
+      1.49       21619       80197
+      0.69         227       14365
+      1.09        5120       43433
+      1.74       44098      111313
+      2.36      149736      207628
+      0.80         403       21168
+      2.02       83095      155177
+      1.27       11993       57249
+  Exact surface D_Box: 2.2459 [2.1285, 2.3633],  R2: 0.9979
+  Run 3: 98.0637 s
+
+Pd74SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      2115 atoms using 764 cpu(s)...
+      10 box lengths using 4 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59           0       10016
+      0.94        2199       29781
+      1.49       21619       80197
+      0.69         227       14365
+      1.09        5120       43433
+      1.74       44098      111313
+      2.36      149736      207628
+      0.80         403       21168
+      1.27       11993       57249
+      2.02       83095      155177
+  Exact surface D_Box: 2.2459 [2.1285, 2.3633],  R2: 0.9979
+  Run 4: 97.5702 s
+  Avg Duration:	95.0457 s
+
+======================================================================================
+                  Resource Usage on 2023-07-17 13:09:07:
+   Job Id:             90626138.gadi-pbs
+   Project:            q27
+   Exit Status:        0
+   Service Units:      212.48
+   NCPUs Requested:    768                    NCPUs Used: 768             
+                                           CPU Time Used: 01:08:14        
+   Memory Requested:   2.34TB                Memory Used: 44.87GB         
+   Walltime requested: 03:00:00            Walltime Used: 00:08:18        
+   JobFS requested:    20.0GB                 JobFS used: 0B              
+======================================================================================

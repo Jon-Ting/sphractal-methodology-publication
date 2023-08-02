@@ -1,0 +1,111 @@
+Running once for JIT compilation...
+Done!
+
+Pd13SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      60 atoms using 4 cpu(s)...
+      10 box lengths using 1 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.55           0         344
+      0.65           0         416
+      0.78           0         618
+      0.92         120         920
+      1.06         216        1202
+      1.25         324        1874
+      1.48         840        2912
+      1.71        1440        3608
+      1.98        2856        4964
+      2.35        5136        6836
+  Exact surface D_Box: 2.1869 [2.0551, 2.3187],  R2: 0.9955
+  Run 0: 2.6944 s
+
+Pd13SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      60 atoms using 4 cpu(s)...
+      10 box lengths using 1 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.55           0         344
+      0.65           0         416
+      0.78           0         618
+      0.92         120         920
+      1.06         216        1202
+      1.25         324        1874
+      1.48         840        2912
+      1.71        1440        3608
+      1.98        2856        4964
+      2.35        5136        6836
+  Exact surface D_Box: 2.1869 [2.0551, 2.3187],  R2: 0.9955
+  Run 1: 2.4572 s
+
+Pd13SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      60 atoms using 4 cpu(s)...
+      10 box lengths using 1 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.55           0         344
+      0.65           0         416
+      0.78           0         618
+      0.92         120         920
+      1.06         216        1202
+      1.25         324        1874
+      1.48         840        2912
+      1.71        1440        3608
+      1.98        2856        4964
+      2.35        5136        6836
+  Exact surface D_Box: 2.1869 [2.0551, 2.3187],  R2: 0.9955
+  Run 2: 2.4836 s
+
+Pd13SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      60 atoms using 4 cpu(s)...
+      10 box lengths using 1 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.55           0         344
+      0.65           0         416
+      0.78           0         618
+      0.92         120         920
+      1.06         216        1202
+      1.25         324        1874
+      1.48         840        2912
+      1.71        1440        3608
+      1.98        2856        4964
+      2.35        5136        6836
+  Exact surface D_Box: 2.1869 [2.0551, 2.3187],  R2: 0.9955
+  Run 3: 2.4954 s
+
+Pd13SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      60 atoms using 4 cpu(s)...
+      10 box lengths using 1 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.55           0         344
+      0.65           0         416
+      0.78           0         618
+      0.92         120         920
+      1.06         216        1202
+      1.25         324        1874
+      1.48         840        2912
+      1.71        1440        3608
+      1.98        2856        4964
+      2.35        5136        6836
+  Exact surface D_Box: 2.1869 [2.0551, 2.3187],  R2: 0.9955
+  Run 4: 2.6556 s
+  Avg Duration:	2.5572 s
+
+======================================================================================
+                  Resource Usage on 2023-07-17 12:51:11:
+   Job Id:             90624804.gadi-pbs
+   Project:            q27
+   Exit Status:        0
+   Service Units:      0.37
+   NCPUs Requested:    4                      NCPUs Used: 4               
+                                           CPU Time Used: 00:02:03        
+   Memory Requested:   60.0GB                Memory Used: 2.15GB          
+   Walltime requested: 01:00:00            Walltime Used: 00:00:44        
+   JobFS requested:    20.0GB                 JobFS used: 0B              
+======================================================================================
