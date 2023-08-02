@@ -1,0 +1,3 @@
+[submodule "sphractal"]
+	path = sphractal
+	url = git@github.com:Jon-Ting/sphractal.git
