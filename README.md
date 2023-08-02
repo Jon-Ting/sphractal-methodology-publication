@@ -1,6 +1,6 @@
 # Sphractal Methodology Publication 
 
-This is a repository containing the extra details on experiments 
+This is a repository containing the extra written code and data generated for the work on Sphractal. 
 
 ## Features Under Development
 - Optional input argument of surface atoms (to guarantee accurate box counts).
