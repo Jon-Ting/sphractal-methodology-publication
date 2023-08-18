@@ -8,10 +8,10 @@ from sphractal.boxCnt import runBoxCnt
 
 
 testCaseName, voxelSurf, exactSurf = 'benchmark', True, False
-radType, trimLen, alphaMult, calcBL, minSample, confLvl = 'atomic', True, 2.0, False, 5, 95
-vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, False, True
+radType, trimLen, alphaMult, calcBL, minSample, confLvl = 'atomic', True, 2.0, False, 6, 95
+vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, True, True
 gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 10000, 'alphaShape', False
-minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.25/20, 1/1.69, 5.0, 20, int(sys.argv[1])
+minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.05, 5, 5.0, 7, int(sys.argv[1])
 numRepeat = 1
 
 PROJECT_DIR = getcwd()
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # for testCase in natsorted(testCases):
     for testCase in testCases:
         # if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
-        if "single" not in testCase: continue  # Debugging
+        # if "single" not in testCase: continue  # Debugging
         totalDuration = 0
         for i in range(numRepeat):
             start = time()
