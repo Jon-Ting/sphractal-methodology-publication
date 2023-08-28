@@ -17,9 +17,4 @@ This is a repository containing the extra written code and data generated for th
     - alpha: should be able to find surface atoms accurately
         - large enough to avoid inner surface (pores within), small enough to find concave atoms
         - default: 2 * 100% ATOMIC_RAD == 5/3 * 120% ATOMIC_RAD ~= METALLIC_RAD * 2.5
-- `alpha` values that match the results from the cone algorithm of the Network Characterisation Package (NCPac) using 55 degrees as input argument:
-    - > 2.0 (most), 2.2-5.1 (DHSX1T000), 2.1-2.8 (RDSXT000, CUS1T000) for perfect polyhedron NPs
-    - 2.1-2.7, 2.4-2.6 (1 atom diff), 2.5 (1 atom diff) for disordered NPs
-    - 2.38 (maximum 12 atoms diff) for heated NPs (RDSXTX23, THSXTX23)
-    - Recommend to use the diameter of the smallest atom (Could potentially consider bond contraction in future)
 
