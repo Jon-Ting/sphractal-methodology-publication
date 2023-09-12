@@ -9,12 +9,13 @@ This is a repository containing the extra written code and data generated for th
 
 ## Notes on Choices  
 - Choices of parameters for findNN() and alphaShape():
-    - radius:
-        - should be able to find all 1st NN, but not 2nd NN
-        - default: NN_RAD_MULT 1.0, recommend 120% ATOMIC_RAD, probably no need to remove inner points
-        - If users want smaller radius, we provide capability of remove inner points, but NN_RAD_MULT needs to be tuned to get the right 1 NNs
-        - e.g. for 100% ATOMIC_RAD, recommend NN_RAD_MULT 1.2; for METALLIC_RAD, recommend NN_RAD_MULT 1.5
+    - radMult:
+        - Recommend 1.2 for atomic radii, 1.5 for metallic radii
+        - Adjust bulkCN as required. e.g. To find the right surface planes on {100} surfaces, radMult needs to be large enough to identify {100} packed atoms as neighbours of each other, and bulkCN needs to be higher -- 14.
+    - radType:
+        - If radius used is large enough, no inner surface will be resulted.
     - alpha: should be able to find surface atoms accurately
         - large enough to avoid inner surface (pores within), small enough to find concave atoms
         - default: 2 * 100% ATOMIC_RAD == 5/3 * 120% ATOMIC_RAD ~= METALLIC_RAD * 2.5
+        - Recommend to use the diameter of the smallest atom (could potentially consider bond contraction in future)
 
