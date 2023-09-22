@@ -8,9 +8,9 @@ from sphractal.boxCnt import runBoxCnt
 
 
 testCaseName, voxelSurf, exactSurf = 'benchmark', True, False
-radType, radMult, trimLen, alphaMult, bulkCN, calcBL, minSample, confLvl = 'metallic', 1.4, True, 2, 12, False, 6, 95
+radType, radMult, trimLen, alphaMult, bulkCN, calcBL, minSample, confLvl = 'atomic', 1.1, True, 2, 12, False, 6, 95
 vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, True, True
-gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 700, 'numNeigh', False
+gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 500, 'numNeigh', False
 minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.05, 5, 5.0, 7, int(sys.argv[1])
 numRepeat = 1
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # for testCase in natsorted(testCases):
     for testCase in testCases:
         # if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
-        if "Pd23RD.xyz" not in testCase: continue  # Debugging
+        if "Pd16OT.xyz" not in testCase: continue  # Debugging
         totalDuration = 0
         for i in range(numRepeat):
             start = time()

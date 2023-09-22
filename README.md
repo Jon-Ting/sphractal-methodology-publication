@@ -6,6 +6,7 @@ This is a repository containing the extra written code and data generated for th
 - Optional input argument of surface atoms (to guarantee accurate box counts).
 - Transformation of xyz coordinates when atoms are read in to avoid using minXYZ repetitively in `scanAtom()`.
 - Integration of C++ code for point cloud surface representation into the package. Planning to use [pybind11](https://pybind11.readthedocs.io/en/latest/classes.html).
+- Fixing the inability of Python in spawning processes across different nodes (via mpi4py, potentially using distributed processing instead of multi-processing -- Dask, openmpi, or intel-mpi)
 
 ## Notes on Choices  
 - Choices of parameters for findNN() and alphaShape():
