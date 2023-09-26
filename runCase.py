@@ -8,10 +8,10 @@ from sphractal.boxCnt import runBoxCnt
 
 
 testCaseName, voxelSurf, exactSurf = 'benchmark', True, False
-radType, trimLen, alphaMult, calcBL, minSample, confLvl = 'atomic', True, 2.0, False, 5, 95
-vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, False, True
-gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 10000, 'alphaShape', False
-minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.25/20, 1/1.69, 5.0, 20, int(sys.argv[1])
+radType, radMult, trimLen, alphaMult, bulkCN, calcBL, minSample, confLvl = 'atomic', 1.1, True, 2, 12, False, 6, 95
+vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, True, True
+gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 500, 'numNeigh', False
+minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.05, 5, 5.0, 7, int(sys.argv[1])
 numRepeat = 1
 
 PROJECT_DIR = getcwd()
@@ -27,17 +27,17 @@ if __name__ == '__main__':
         # else: testCases.extend(natsorted([f"testCases/{NPname}/{i}" for i in listdir(f"testCases/{NPname}")]))
 
     print('Running once for JIT compilation...')
-    _ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, exePath=FASTBC, gridNum=1024, numPoints=300, writeBox=False)
+    _ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, exePath=FASTBC, gridNum=1024, numPoints=300, writeBox=False, exactSurf=False)
     print('Done!')
 
     # for testCase in natsorted(testCases):
     for testCase in testCases:
         # if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
-        if "single" not in testCase: continue  # Debugging
+        if "Pd16OT.xyz" not in testCase: continue  # Debugging
         totalDuration = 0
         for i in range(numRepeat):
             start = time()
-            _ = runBoxCnt(testCase, radType, calcBL, findSurfAlg, alphaMult, 
+            _ = runBoxCnt(testCase, radType, radMult, calcBL, findSurfAlg, alphaMult, bulkCN,  
                           OUTPUT_DIR, trimLen, minSample, confLvl,
                           rmInSurf, vis, figType, saveFig, showPlot, verbose,
                           voxelSurf, numSpherePoint, gridNum, FASTBC, genPCD, 

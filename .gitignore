@@ -1,2 +1,3 @@
 hiddenDir/
-outputs/
+outputs*/
+.ipynb_checkpoints
