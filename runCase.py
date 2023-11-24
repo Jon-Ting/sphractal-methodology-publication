@@ -27,13 +27,13 @@ if __name__ == '__main__':
         # else: testCases.extend(natsorted([f"testCases/{NPname}/{i}" for i in listdir(f"testCases/{NPname}")]))
 
     print('Running once for JIT compilation...')
-    _ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, exePath=FASTBC, gridNum=1024, numPoints=300, writeBox=False, exactSurf=False)
+    _ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, exePath=FASTBC, gridNum=gridNum, numPoints=300, writeBox=False, exactSurf=False)
     print('Done!')
 
     # for testCase in natsorted(testCases):
     for testCase in testCases:
         # if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
-        if "Pd16OT.xyz" not in testCase: continue  # Debugging
+        # if "Pd17SP.xyz" not in testCase: continue  # Debugging
         totalDuration = 0
         for i in range(numRepeat):
             start = time()

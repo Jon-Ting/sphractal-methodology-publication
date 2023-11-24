@@ -1,3 +1,6 @@
 hiddenDir/
 outputs*/
 .ipynb_checkpoints
+
+pdnps.py
+testCases/allPdNPs/
