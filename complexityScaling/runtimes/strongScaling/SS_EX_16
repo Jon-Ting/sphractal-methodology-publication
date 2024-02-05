@@ -1,0 +1,617 @@
+Running once for JIT compilation...
+Done!
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 0: 416.3020 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 1: 435.1957 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 2: 422.5983 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 3: 414.1328 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 4: 409.4097 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 5: 437.2868 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 6: 419.9923 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 7: 424.5000 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 8: 415.7543 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 9: 419.9147 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 10: 419.8188 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 11: 412.2293 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 12: 426.7875 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 13: 414.2180 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 14: 427.1840 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 15: 412.5755 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 16: 435.5194 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 17: 413.2378 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 18: 419.5665 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 19: 424.3074 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 20: 416.2720 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 21: 414.3446 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 22: 430.7091 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 23: 415.8065 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 24: 413.3621 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 25: 417.4718 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 26: 414.7751 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 27: 420.3072 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 28: 428.3231 s
+
+Pd100SP
+  Representing the surface by treating each atom as exact spheres...
+    Scanning over:
+      10 box lengths using 1 cpu(s)...
+      3952 atoms using 16 cpu(s)...
+    (1/eps)    (# bulk)    (# surf)
+      0.59          39       18752
+      0.69         134       26557
+      0.80        1504       39060
+      0.93        3182       52244
+      1.09        9874       77827
+      1.28       18181      108287
+      1.48       37848      146226
+      1.73       83371      206089
+      2.02      151541      280556
+      2.36      279551      384883
+  D_Box: 2.2708 [2.1736, 2.3680],  R2: 0.9991,  boxLens: (-0.2311, 0.1063)
+
+  Run 29: 419.3635 s
+
+======================================================================================
+                  Resource Usage on 2024-02-04 18:55:52:
+   Job Id:             107460464.gadi-pbs
+   Project:            q27
+   Exit Status:        0
+   Service Units:      252.48
+   NCPUs Requested:    24                     NCPUs Used: 24              
+                                           CPU Time Used: 10:53:16        
+   Memory Requested:   10.0GB                Memory Used: 2.81GB          
+   NGPUs Requested:    2                 GPU Utilisation: 0%              
+                                         GPU Memory Used: 0B              
+   Walltime requested: 05:00:00            Walltime Used: 03:30:24        
+   JobFS requested:    10.0GB                 JobFS used: 0B              
+======================================================================================

@@ -8,15 +8,15 @@ This is a repository containing the extra written code and data generated for th
 - Integration of C++ code for point cloud surface representation into the package. Planning to use [pybind11](https://pybind11.readthedocs.io/en/latest/classes.html).
 - Fixing the inability of Python in spawning processes across different nodes (via mpi4py, potentially using distributed processing instead of multi-processing -- Dask, openmpi, or intel-mpi)
 
-## Notes on Choices  
+## Notes on Choices
 - Choices of parameters for findNN() and alphaShape():
     - radMult:
         - Recommend 1.2 for atomic radii, 1.5 for metallic radii
         - Adjust bulkCN as required. e.g. To find the right surface planes on {100} surfaces, radMult needs to be large enough to identify {100} packed atoms as neighbours of each other, and bulkCN needs to be higher -- 14.
     - radType:
-        - If radius used is large enough, no inner surface will be resulted.
+        - If radius used is large enough, no inner surface will be obtained.
     - alpha: should be able to find surface atoms accurately
-        - large enough to avoid inner surface (pores within), small enough to find concave atoms
-        - default: 2 * 100% ATOMIC_RAD == 5/3 * 120% ATOMIC_RAD ~= METALLIC_RAD * 2.5
+        - Should be large enough to avoid inner surface (pores within), small enough to find concave atoms
+        - Default: 2 * 100% ATOMIC_RAD == 5/3 * 120% ATOMIC_RAD ~= METALLIC_RAD * 2.5
         - Recommend to use the diameter of the smallest atom (could potentially consider bond contraction in future)
 

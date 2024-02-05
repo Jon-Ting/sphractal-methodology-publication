@@ -1,0 +1,317 @@
+Running once for JIT compilation...
+Done!
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 0: 4.6030 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 1: 4.4236 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 2: 4.4987 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 3: 4.3982 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 4: 4.4396 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 5: 4.5227 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 6: 4.5026 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 7: 4.5138 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 8: 4.4240 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 9: 4.4146 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 10: 4.5365 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 11: 4.4315 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 12: 4.5282 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 13: 4.4483 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 14: 4.4245 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 15: 4.5340 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 16: 4.4403 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 17: 4.4127 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 18: 4.5680 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 19: 4.4083 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 20: 4.5584 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 21: 4.4849 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 22: 4.4344 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 23: 4.6533 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 24: 4.4705 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 25: 4.5321 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 26: 4.4501 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 27: 4.4498 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 28: 4.5586 s
+
+Pd38SP
+  Approximating the surface with 300 points for each atom...
+    Assessing points over:
+      534 atoms using 12 cpu(s)...
+      300 points using 1 cpu(s)...
+    52220 surface points -> 52220 voxels, # grids: 1024
+  D_Box: 2.2470 [2.0266, 2.4674],  R2: 0.9950,  boxLens: (-2.7093, -1.2041)
+
+  Run 29: 4.4054 s
+
+======================================================================================
+                  Resource Usage on 2024-02-02 18:52:45:
+   Job Id:             107381237.gadi-pbs
+   Project:            q27
+   Exit Status:        0
+   Service Units:      1.42
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 00:07:38        
+   Memory Requested:   10.0GB                Memory Used: 1.34GB          
+   NGPUs Requested:    1                 GPU Utilisation: 8%              
+                                         GPU Memory Used: 1.3GB           
+   Walltime requested: 00:20:00            Walltime Used: 00:02:22        
+   JobFS requested:    10.0GB                 JobFS used: 0B              
+======================================================================================

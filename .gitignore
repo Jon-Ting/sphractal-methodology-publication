@@ -1,6 +1,6 @@
 hiddenDir/
+fbc/
+sphractal/
 outputs*/
-.ipynb_checkpoints
-
-pdnps.py
-testCases/allPdNPs/
+*.ipynb_checkpoints
+runCase.sh
