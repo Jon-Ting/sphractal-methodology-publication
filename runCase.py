@@ -9,14 +9,14 @@ from sphractal.boxCnt import runBoxCnt
 
 testCaseName, voxelSurf, exactSurf = 'benchmark', False, True
 radType, radMult, trimLen, alphaMult, bulkCN, calcBL, minSample, confLvl = 'atomic', 1.2, True, 2.0, 12, False, 6, 95
-vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, True, True
-gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 300, 'alphaShape', False
+vis, figType, saveFig, showPlot, writeBox, rmInSurf, verbose = True, 'paper', True, False, True, False, True
+gridNum, numSpherePoint, findSurfAlg, genPCD = 1024, 300, 'numNeigh', False
 minLenMult, maxLenMult, bufferDist, numBoxLen, numCPUs = 0.25, 1, 5.0, 10, int(sys.argv[1])
-numRepeat = 8
+numRepeat = 1
 
 PROJECT_DIR = getcwd()
-FASTBC = '~/fastbc/3DbinImBCgpu'
-OUTPUT_DIR = f"{PROJECT_DIR}/outputs{sys.argv[2]}"
+FASTBC = 'sphractal/src/fastbc/3DbinImBCcpu'
+OUTPUT_DIR = f"outputs{sys.argv[2]}"
 
 
 if __name__ == '__main__':
@@ -27,13 +27,14 @@ if __name__ == '__main__':
         # else: testCases.extend(natsorted([f"testCases/{NPname}/{i}" for i in listdir(f"testCases/{NPname}")]))
 
     print('Running once for JIT compilation...')
-    _ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, fastbcPath=FASTBC, gridNum=gridNum, numPoints=300, writeBox=False, exactSurf=False)
+    #_ = runBoxCnt('testCases/PtAu20THL12_286/PtAu20THL12S2min.0.xyz', vis=False, outDir=OUTPUT_DIR, fastbcPath=FASTBC, gridNum=gridNum, numPoints=300, writeBox=False, exactSurf=False)
     print('Done!')
 
     # for testCase in natsorted(testCases):
     for testCase in testCases:
-        if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
-        # if "Pd17SP.xyz" not in testCase: continue  # Debugging
+        # if f"Pd{sys.argv[2]}SP" not in testCase: continue  # Debugging
+        if "graphene.xyz" not in testCase: continue  # Debugging
+        print(testCase)
         totalDuration = 0
         for i in range(numRepeat):
             start = time()
